@@ -1,0 +1,98 @@
+body{
+    margin :0;
+    padding: 0;
+  
+}
+
+#left{
+    float: left;
+    width: 35%;
+    height: 100vh;
+    background-color:rgba(0,0,0,0.83);
+    padding: 10px;
+    color: white;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+}
+.fa{
+    margin-right: 12px;
+    font-size:30px!important;
+    color:rgba(56,9,43,0.93);
+}
+#table1
+{
+margin: auto;
+}
+img{
+    display: block;
+    margin: 10px auto;
+
+}
+#table1 tr{
+    line-height:30px ;
+}
+#formulaire{
+    margin-top: 50px;
+    text-align: center;
+}
+#name{
+    text-align: center;
+}
+.form{
+   
+    margin-bottom: 20px;
+}
+input{
+    height: 30px;
+    width: 70%;
+}
+textarea{
+    height: 120px;
+    padding-left: 10px;
+    width: 68%;
+}
+button{
+    height: 40px;
+    background-color:rgba(56,9,43,0.93);
+    color: white;
+    padding: 8px 25px;
+}
+#right{
+    float: right;
+    width:60%;
+    padding: 10px;
+}
+
+.my_h1{
+    color:rgba(56,9,43,0.93);
+    margin: 20px 0 0 0;;
+    padding:0 ;
+    
+}
+hr{
+    border: 1px solid rgba(160, 192, 207, 0.93);
+}
+#table2,#table3{
+    margin: 20px 0 50px 0;
+    width: 100%;
+}
+.diplome{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+.td_right{
+    font-weight: bold;
+    font-size: 1.3em;
+    color:rgba(56,9,43,0.93);
+    float: right;
+    text-align: right;
+}
+.school{
+    margin-bottom: 10px;
+    color:rgba(56,9,43,0.93);
+}
+.interligne{
+    height: 25px;;
+}
